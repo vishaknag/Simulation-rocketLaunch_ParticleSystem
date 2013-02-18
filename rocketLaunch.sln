@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rocketLaunch", "rocketLaunch\rocketLaunch\rocketLaunch.csproj", "{834AD3A2-C0E7-464C-A30A-C1BD37EAF637}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "rocketLaunchContent", "rocketLaunch\rocketLaunchContent\rocketLaunchContent.contentproj", "{5B3FC9A0-E79F-4197-BAFB-8C0EAD9D76F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834AD3A2-C0E7-464C-A30A-C1BD37EAF637}.Debug|x86.ActiveCfg = Debug|x86
+		{834AD3A2-C0E7-464C-A30A-C1BD37EAF637}.Debug|x86.Build.0 = Debug|x86
+		{834AD3A2-C0E7-464C-A30A-C1BD37EAF637}.Release|x86.ActiveCfg = Release|x86
+		{834AD3A2-C0E7-464C-A30A-C1BD37EAF637}.Release|x86.Build.0 = Release|x86
+		{5B3FC9A0-E79F-4197-BAFB-8C0EAD9D76F1}.Debug|x86.ActiveCfg = Debug|x86
+		{5B3FC9A0-E79F-4197-BAFB-8C0EAD9D76F1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
